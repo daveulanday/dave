@@ -54,7 +54,7 @@ header.scrolled {
 }
 
 nav {
-display: flex;
+display: inline;
 justify-content: center;
     
 }
