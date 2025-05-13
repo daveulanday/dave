@@ -4,7 +4,9 @@
 h1{
   display: inline;
 }
-
+a{
+    display: inline;
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
