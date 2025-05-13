@@ -50,6 +50,11 @@ header.scrolled {
     box-shadow: 0 0 10px rgba(0, 224, 255, 0.6);
 }
 
+nav {
+display: flex;
+justify-content: center;
+    
+}
 
 nav ul {
     display: flex;
